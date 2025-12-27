@@ -1,4 +1,5 @@
 * [English version](./README.md)
+* [Русская версия](./README_ru.md)
 # WeActStudio.CH9143_BLE2USB2UART
 ![display](Images/1.png)
 CH9143 是一款 BLE/UART/USB 三通芯片，实现蓝牙、USB 接口和串口接口之间数据互传。蓝牙支持主机模式、从机模式和主从一体模式，从机模式和主从一体下可对蓝牙通讯以及参数进行配置，支持 BLE4.2。串口支持 AT 指令配置，支持 MODEM 联络信号，最高波特率 1Mbps。同时可实现计算机USB接口、串口和蓝牙之间联机调试或数据监控。  
